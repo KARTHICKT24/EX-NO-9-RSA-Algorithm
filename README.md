@@ -114,9 +114,6 @@ if __name__ == "__main__":
 ## Output:
 ![cry 9](https://github.com/user-attachments/assets/c109e742-b590-4e4a-8ed1-d5e93fbcd96c)
 
-## Result:
-
-THE EXPERIMENT WAS EXECUTED SUCCESSFULLY
 
 ## Result:
  The program is executed successfully.
